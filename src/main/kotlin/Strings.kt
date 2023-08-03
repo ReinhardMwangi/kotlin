@@ -14,7 +14,7 @@ fun main() {
     println(msg)
 
     val email = """
-        Hello
+        Hello %s
         How 
         Are you
         """.trimIndent()

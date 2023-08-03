@@ -5,33 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eda086c9-e4b8-4ef2-af17-1293f0872dd2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kotlin.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Any.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Comments.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Const.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Datatypes.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Nulls.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Reserved.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Strings.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ValvsVar.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Variables.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ArithmeticOperators.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Boolean.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/BooleanLogicalOperators.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Classes.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/DoWhileLoop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ForEach.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/IncDecOperators.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/List Destructuring.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/LoopIndices.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/LoopRange.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/LoopStrings.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/StringQuality.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/WhileLoop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/list.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin/META-INF/kotlin.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin/StringsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin/StringsKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Strings.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Strings.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="module" />
+    </option>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -48,10 +50,10 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/1.9.0/kotlin-stdlib-1.9.0-sources.jar!/kotlin/io/Console.kt" root0="FORCE_HIGHLIGHTING" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2T9tXW2zMkikvFvsMwZYRdbVVuc" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -69,11 +71,12 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.StringsKt">
+  <component name="RunManager">
     <configuration name="CommentsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CommentsKt" />
       <module name="kotlin" />
@@ -120,10 +123,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.CommentsKt" />
         <item itemvalue="Kotlin.StringsKt" />
         <item itemvalue="Kotlin.NullsKt" />
         <item itemvalue="Kotlin.VariablesKt" />
-        <item itemvalue="Kotlin.CommentsKt" />
         <item itemvalue="Kotlin.ReservedKt" />
       </list>
     </recent_temporary>
@@ -139,6 +142,14 @@
       <workItem from="1690467177296" duration="86000" />
       <workItem from="1690467272215" duration="5063000" />
       <workItem from="1690538628599" duration="431000" />
+      <workItem from="1690539072652" duration="4696000" />
+      <workItem from="1690798799498" duration="49000" />
+      <workItem from="1690798966564" duration="2471000" />
+      <workItem from="1690803055078" duration="844000" />
+      <workItem from="1690804199201" duration="1753000" />
+      <workItem from="1690887239670" duration="2855000" />
+      <workItem from="1690973872729" duration="595000" />
+      <workItem from="1691061055502" duration="5200000" />
     </task>
     <servers />
   </component>
@@ -174,6 +185,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/ArithmeticOperators.kt</url>
+          <line>4</line>
+          <properties method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
